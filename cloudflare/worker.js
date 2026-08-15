@@ -6,7 +6,7 @@
  * 시크릿: BOT_TOKEN, ALLOWED_CHAT_ID, WEBHOOK_SECRET
  */
 
-const SITES = { "0013": "용산아이파크몰", "0059": "영등포타임스퀘어" };
+const SITES = { "0013": "용산아이파크몰" };
 const MOVIE_KEYWORD = "오디세이";
 const SCREEN_KEYWORD = "IMAX";
 const CUTOFF_TIME = "1800";
