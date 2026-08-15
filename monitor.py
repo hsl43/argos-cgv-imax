@@ -25,7 +25,7 @@ CUTOFF_TIME = "1800"          # 이 시각 '이전' 시작 회차만 (HHMM)
 DAYS_AHEAD = 20               # 오늘부터 며칠치 스케줄을 훑을지
                               # CGV 오픈 범위(~2주)보다 넉넉히 잡아야
                               # '감시 범위에 새로 들어온 날'을 신규 오픈으로 오인하지 않는다
-WEEKDAYS_ONLY = True          # 평일(월~금)만
+WEEKDAYS_ONLY = False         # 평일(월~금)만
 
 SITES = {
     "0013": "용산아이파크몰"
