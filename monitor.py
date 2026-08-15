@@ -28,8 +28,7 @@ DAYS_AHEAD = 20               # 오늘부터 며칠치 스케줄을 훑을지
 WEEKDAYS_ONLY = True          # 평일(월~금)만
 
 SITES = {
-    "0013": "용산아이파크몰",
-    "0059": "영등포타임스퀘어",
+    "0013": "용산아이파크몰"
 }
 
 API = "https://cgv.co.kr/api/v1/booking/searchMovScnInfo?coCd=A420&siteNo={site}&scnYmd={ymd}&rtctlScopCd=08"
